@@ -1,103 +1,129 @@
-<!-- 
-    ByteCore | Software & Security Engineer
-    README.md — Optimized for Mobile & Desktop
--->
+<h1 align="center">Hi there, I'm ByteCore 👋</h1>
+<h3 align="center">Advanced Tech Engineer | Android Security & Automation Specialist</h3>
 
-<div align="center">
-
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" />
-  Hi, main hoon <strong>ByteCore</strong>
-</h1>
-
-<p><strong>Secure & custom solutions.</strong></p>
-
-<!-- Status Badges -->
-<a href="#"><img src="https://img.shields.io/badge/STATUS-Available%20for%20freelance-238636?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" alt="Status" /></a>
-<a href="#"><img src="https://img.shields.io/badge/RATING-5.0%20%2F%205-e3b341?style=for-the-badge&logo=star&logoColor=white&labelColor=000000" alt="Rating" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PROJECTS-100%2B-58a6ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" alt="Projects" /></a>
-<a href="#"><img src="https://img.shields.io/badge/RESPONSE-24h-39c5cf?style=for-the-badge&logo=clock&logoColor=white&labelColor=000000" alt="Response" /></a>
-
-<br /><br />
-
-Ek Advanced Tech Engineer jo **Android Reverse Engineering**, **Smali Patching**, **Termux Automation**, aur **Cybersecurity Audits** mein expert hai. Main complex problems ko simple aur working solutions mein convert karta hoon.
-
-</div>
+<p align="center">
+  <a href="https://bytecore448-creator.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://youtube.com/@bytecore-448" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/+P4f8PrzSqN0zMTM1" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="24" /> Main Kya Karta Hoon
+### 👨‍💻 About Me
+I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smali Patching, and Custom Security Audits. I turn complex problems into elegant technical solutions.
 
-> Aapki technical zaruraton ke liye professional, result-oriented solutions.
-
-**📱 Android Modding**  
-Advanced Smali modifications, features unlock karna, aur bloatware ko securely hatana.
-
-**🛡️ Security Bypass**  
-Authorized testing aur research ke liye Root, VPN, aur Emulator checks ko bypass karna.
-
-**⌨️ Automation**  
-Aapke tasks ko automate karne ke liye Termux aur Linux mein custom Python aur Bash scripts likhna.
+- 🔭 I’m currently working on **Android Security Research & Custom Automation Scripts**.
+- 🌱 I’m currently exploring **Advanced Application Architecture & Cyber Security**.
+- 💬 Ask me about **Android Modding, Termux Automation, and Security Audits**.
+- 📫 How to reach me: **bytecore448@gmail.com**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="24" /> Meri Skills
-
-> Technologies aur tools jin par main deep expertise rakhta hoon.
-
-**🤖 Android & Smali**  
-DEX files aur Smali bytecode modification ki gehri samajh, APK rebuilding, aur complex app logic ko bypass karna.
-
-**🐍 Python & Bash**  
-Automation, web scraping, aur Linux/Termux ke liye custom command-line tools banane ke liye powerful scripts likhna.
-
-**🐛 Reverse Engineering**  
-Binaries ka static aur dynamic analysis karna, hidden APIs extract karna, aur complex app architectures ko samajhna.
-
-**🛡️ Cyber Security**  
-Vulnerabilities dhundna, SSL pinning bypass karna, aur authorized environments ke liye security audits perform karna.
-
-**🐙 Git & GitHub**  
-Version control, open-source contribution, aur team collaboration ke liye code repositories ko efficiently manage karna.
-
-**🌐 Networking & APIs**  
-Network traffic intercept karna, REST APIs ka analysis karna, aur ye samajhna ki mobile apps servers se kaise communicate karte hain.
+### ⚡ What I Do (Services)
+- **Android Modding & Patching:** Advanced Smali code modification, unlocking features, and removing bloatware securely from APKs without breaking core functionality.
+- **Security & Detection Bypass:** Bypassing complex Root, VPN, Emulator, and SSL Pinning checks for authorized testing, penetration testing, and educational research.
+- **Automation & Scripting:** Writing custom Python and Bash scripts for Termux or Linux servers to automate repetitive tasks, web scraping, and workflows.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="24" /> Mujhse Contact Karein
-
-<div align="center">
-
-**Chaliye aapke project par baat karein**  
-*Main aamtaur par 24 ghanton ke andar reply karta hoon.*
-
-<br />
-
-<a href="mailto:bytecore448@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bytecore448%40gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
-</a>
-<br />
-<a href="https://github.com/bytecore448-creator">
-  <img src="https://img.shields.io/badge/GitHub-bytecore448--creator-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
-</a>
-<br />
-<a href="https://t.me/+P4f8PrzSqN0zMTM1">
-  <img src="https://img.shields.io/badge/Telegram-Chat-39c5cf?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" />
-</a>
-<br />
-<a href="https://youtube.com/@bytecore-448">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-f85149?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube" />
-</a>
-
-</div>
-
-<br />
+### 🛠️ Technical Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smali%20%2F%20DEX-4B0082?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Termux-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-<div align="center">
-  <p>
-    <strong>ByteCore</strong> · &copy; 2026 · All rights reserved
-  </p>
-</div>
+### 📊 GitHub Activity Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="ByteCore's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=tokyonight&hide_border=true" alt="ByteCore's Streak" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="center">
+  <i>Ready to build something epic? Feel free to reach out for freelance projects or technical collaborations.</i>
+</p>
+
+<br>
+<hr>
+<br>
+
+<!-- ========================================== -->
+<!-- HINGLISH SECTION START                     -->
+<!-- ========================================== -->
+
+<h1 align="center">Namaste, Main Hoon ByteCore 👋</h1>
+<h3 align="center">Advanced Tech Engineer | Android Security & Automation Specialist</h3>
+
+<p align="center">
+  <a href="https://bytecore448-creator.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio%20Dekhein-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://youtube.com/@bytecore-448" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe%20Karein-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/+P4f8PrzSqN0zMTM1" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Channel%20Join%20Karein-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Mere Baare Mein (About Me)
+Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patching, aur Custom Security Audits mein expert hai. Main complex technical problems ko simple aur working solutions mein convert karta hoon.
+
+- 🔭 Abhi main **Android Security Research aur Custom Automation Scripts** par kaam kar raha hoon.
+- 🌱 Mujhe **Advanced Application Architecture aur Cyber Security** seekhne ka shauk hai.
+- 💬 Mujhse **Android Modding, Termux Automation aur Security Audits** ke baare mein puchh sakte ho.
+- 📫 Mujhse judne ke liye email karein: **bytecore448@gmail.com**
+
+---
+
+### ⚡ Main Kya Karta Hoon (My Services)
+- **Android Modding & Patching:** APK ke andar Smali code ko modify karna, features unlock karna, aur bloatware hatana bina app ka core logic kharab kiye.
+- **Security & Detection Bypass:** Authorized testing aur research ke liye Root, VPN, Emulator aur SSL Pinning jaise complex security checks ko bypass karna.
+- **Automation & Scripting:** Termux ya Linux ke liye custom Python aur Bash scripts likhna taki aapke repeated tasks, scraping, aur workflows automate ho sakein.
+
+---
+
+### 🛠️ Meri Skills (Technical Arsenal)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smali%20%2F%20DEX-4B0082?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Termux-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 Meri GitHub Activity Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="ByteCore's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=tokyonight&hide_border=true" alt="ByteCore's Streak" width="48%" />
+</p>
+
+---
+
+### 🤝 Aao Judein (Let's Connect)
+<p align="center">
+  <i>Kuch naya aur zabardast banane ke liye taiyaar ho? Freelance projects ya technical collaboration ke liye bina jhijhak sampark karein.</i>
+</p>
