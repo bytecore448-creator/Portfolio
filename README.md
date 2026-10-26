@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ByteCore 👋</h1>
-<h3 align="center">Advanced Tech Engineer | Android Modding & Cybersecurity</h3>
+<h3 align="center">Advanced Tech Engineer | Android Security & Automation Specialist</h3>
 
 <p align="center">
   <a href="https://bytecore448-creator.github.io/Portfolio/" target="_blank">
@@ -16,33 +16,45 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Android Reverse Engineering & Automation Scripts**.
-- 🌱 I’m currently learning **Advanced Smali Patching & Cyber Security**.
-- 👯 I’m looking to collaborate on **Termux & Python Projects**.
-- 💬 Ask me about **Android Modding, Termux, and Bypassing Security**.
+I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smali Patching, and Custom Security Audits. I turn complex problems into elegant technical solutions.
+
+- 🔭 I’m currently working on **Android Security Research & Custom Automation Scripts**.
+- 🌱 I’m currently exploring **Advanced Application Architecture & Cyber Security**.
+- 💬 Ask me about **Android Modding, Termux Automation, and Security Audits**.
 - 📫 How to reach me: **bytecore448@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚡ What I Do (Services)
+- **Android Modding & Patching:** Advanced Smali code modification, unlocking features, and removing bloatware securely from APKs without breaking core functionality.
+- **Security & Detection Bypass:** Bypassing complex Root, VPN, Emulator, and SSL Pinning checks for authorized testing, penetration testing, and educational research.
+- **Automation & Scripting:** Writing custom Python and Bash scripts for Termux or Linux servers to automate repetitive tasks, web scraping, and workflows.
+
+---
+
+### 🛠️ Technical Arsenal
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smali%20%2F%20DEX-4B0082?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Termux-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical" alt="ByteCore's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="ByteCore's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=tokyonight&hide_border=true" alt="ByteCore's Streak" width="48%" />
 </p>
 
+---
+
+### 🤝 Let's Connect
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical" alt="ByteCore's Streak" />
+  <i>Ready to build something epic? Feel free to reach out for freelance projects or technical collaborations.</i>
 </p>
