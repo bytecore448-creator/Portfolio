@@ -48,8 +48,13 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
 
 ### 📊 GitHub Activity Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="ByteCore's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=tokyonight&hide_border=true" alt="ByteCore's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 ---
@@ -117,8 +122,13 @@ Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patchi
 
 ### 📊 Meri GitHub Activity Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="ByteCore's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=tokyonight&hide_border=true" alt="ByteCore's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 ---
