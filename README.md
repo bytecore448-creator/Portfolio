@@ -58,3 +58,34 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
 <p align="center">
   <i>Ready to build something epic? Feel free to reach out for freelance projects or technical collaborations.</i>
 </p>
+
+<br>
+<hr>
+<br>
+
+<h1 align="center">Namaste, Main Hoon ByteCore 👋</h1>
+<h3 align="center">Advanced Tech Engineer | Android Security & Automation Specialist</h3>
+
+### 🇮🇳 Hinglish Section
+
+**Mere Baare Mein (About Me)**
+Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patching, aur Security Audits mein expert hai. Main complex technical problems ko simple aur working solutions mein convert karta hoon.
+
+- 🔭 Abhi main **Android Security Research aur Custom Automation Scripts** par kaam kar raha hoon.
+- 🌱 Mujhe **Advanced Application Architecture aur Cyber Security** seekhne ka shauk hai.
+- 💬 Mujhse **Android Modding, Termux Automation aur Security Audits** ke baare mein puchh sakte ho.
+- 📫 Mujhse judne ke liye email karein: **bytecore448@gmail.com**
+
+**Main Kya Karta Hoon (My Services)**
+- **Android Modding & Patching:** APK ke andar Smali code ko modify karna, features unlock karna, aur bloatware hatana bina app ka core logic kharab kiye.
+- **Security & Detection Bypass:** Authorized testing aur research ke liye Root, VPN, Emulator aur SSL Pinning jaise complex security checks ko bypass karna.
+- **Automation & Scripting:** Termux ya Linux ke liye custom Python aur Bash scripts likhna taki aapke repeated tasks, scraping, aur workflows automate ho sakein.
+
+**Meri Skills (Technical Arsenal)**
+- Java, Kotlin, Smali/DEX, Python, Bash/Termux, Cyber Security, Git/GitHub, Linux.
+
+**Meri Activity**
+Niche mere GitHub account ki live activity aur stats di gayi hain. 
+
+**Aao Judein (Let's Connect)**
+Kuch naya aur zabardast banane ke liye taiyaar ho? Freelance projects ya technical collaboration ke liye bina jhijhak sampark karein.
