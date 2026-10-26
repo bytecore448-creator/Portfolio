@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytecore448-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -45,6 +49,11 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
 </p>
 
 ---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+</p>
 
 ### 📊 GitHub Activity Stats
 <p align="center">
@@ -87,6 +96,10 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytecore448-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 👨‍💻 Mere Baare Mein (About Me)
@@ -119,6 +132,11 @@ Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patchi
 </p>
 
 ---
+
+### 🏆 Meri GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+</p>
 
 ### 📊 Meri GitHub Activity Stats
 <p align="center">
