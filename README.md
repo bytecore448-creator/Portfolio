@@ -50,17 +50,15 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
 
 ---
 
-### 🔥 GitHub Streaks & Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
-</p>
-
 ### 📊 GitHub Activity Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 ---
@@ -130,17 +128,15 @@ Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patchi
 
 ---
 
-### 🔥 Meri GitHub Streaks & Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
-</p>
-
 ### 📊 Meri GitHub Activity Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 ---
