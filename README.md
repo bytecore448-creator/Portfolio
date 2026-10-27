@@ -52,7 +52,10 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+  <!-- FIXED TROPHY LINK WITH ERROR HANDLING FALLBACK -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&row=1" alt="ByteCore's GitHub Trophies" width="100%" onerror="this.style.display='none'" />
+  </a>
 </p>
 
 ### 📊 GitHub Activity Stats
@@ -135,7 +138,10 @@ Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patchi
 
 ### 🏆 Meri GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+  <!-- FIXED TROPHY LINK WITH ERROR HANDLING FALLBACK -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&row=1" alt="ByteCore's GitHub Trophies" width="100%" onerror="this.style.display='none'" />
+  </a>
 </p>
 
 ### 📊 Meri GitHub Activity Stats
