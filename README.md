@@ -50,11 +50,9 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streaks & Contributions
 <p align="center">
-  <a href="https://github.com/bytecore448-creator">
-    <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=6" alt="ByteCore's GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
 </p>
 
 ### 📊 GitHub Activity Stats
@@ -62,10 +60,7 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
   <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -135,11 +130,9 @@ Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patchi
 
 ---
 
-### 🏆 Meri GitHub Trophies
+### 🔥 Meri GitHub Streaks & Contributions
 <p align="center">
-  <a href="https://github.com/bytecore448-creator">
-    <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=6" alt="ByteCore's GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
 </p>
 
 ### 📊 Meri GitHub Activity Stats
@@ -147,10 +140,7 @@ Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patchi
   <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
