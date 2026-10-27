@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytecore448-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -46,10 +50,20 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+</p>
+
 ### 📊 GitHub Activity Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="ByteCore's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=tokyonight&hide_border=true" alt="ByteCore's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 ---
@@ -80,6 +94,10 @@ I am an Advanced Tech Engineer specializing in Android Reverse Engineering, Smal
   <a href="https://t.me/+P4f8PrzSqN0zMTM1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Channel%20Join%20Karein-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytecore448-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -115,10 +133,20 @@ Main ek Advanced Tech Engineer hoon jo Android Reverse Engineering, Smali Patchi
 
 ---
 
+### 🏆 Meri GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bytecore448-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+</p>
+
 ### 📊 Meri GitHub Activity Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="ByteCore's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=tokyonight&hide_border=true" alt="ByteCore's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bytecore448-creator&show_icons=true&theme=radical&hide_border=true" alt="ByteCore's GitHub Stats" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytecore448-creator&theme=radical&hide_border=true" alt="ByteCore's Streak" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecore448-creator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 ---
